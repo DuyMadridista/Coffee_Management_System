@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-	
+	alo(2);
 	return 0;
 }
