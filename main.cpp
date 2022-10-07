@@ -13,5 +13,6 @@ int main() {
 	NhanVienPhucVu e;
 	//duyluuu
 	a.themNV(b);
+	b.themNv(c);
 	return 0;
 }
