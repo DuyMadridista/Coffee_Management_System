@@ -12,7 +12,7 @@ int main() {
 	NhanVienPhucVu d;
 	NhanVienPhucVu e;
 	//duyluuu
-	
+	//alo1234
 	a.themNV(b);
 	
 	return 0;
