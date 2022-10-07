@@ -14,5 +14,6 @@ int main() {
 	//duyluuu
 	//tam ngu
 	a.themNV(b);
+	b.themNv(c);
 	return 0;
 }
