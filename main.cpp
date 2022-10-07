@@ -11,10 +11,7 @@ int main() {
 	NhanVienPhucVu c;
 	NhanVienPhucVu d;
 	NhanVienPhucVu e;
-	//duyluuu
-
-	//alo1234
-	a.themNV(b);
+	
 	
 	return 0;
 }
