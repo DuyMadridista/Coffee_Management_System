@@ -10,6 +10,7 @@ int main() {
 	NhanVienPhucVu b;
 	NhanVienPhucVu c;
 	NhanVienPhucVu d;
+	NhanVienPhucVu e;
 	a.themNV(b);
 	return 0;
 }
